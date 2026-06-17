@@ -99,7 +99,8 @@ TARGET_KERNEL_CONFIG := \
     vendor/sm8150-perf_defconfig \
     vendor/debugfs.config \
     vendor/xiaomi/sm8150-common.config \
-    vendor/xiaomi/nabu.config
+    vendor/xiaomi/nabu.config \
+    vendor/droidspaces.config
 
 TARGET_KERNEL_NO_GCC := true
 
